@@ -9,4 +9,5 @@
 ## B. Project description
 
 - Purpose: analyze apartment sale price in Seoul, South Korea using Univariate LSTM over period of time
-- Forecast apartment sale price by considering only time variable
+- Forecast apartment sale price by considering only time univariable
+- Consider t-1
